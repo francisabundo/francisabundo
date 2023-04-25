@@ -1,4 +1,4 @@
-# Benjikoy
+### Benjikoy
 
 **`Full-stack Developer`**
 
@@ -24,7 +24,6 @@
 
 <br/><br/>
 
-#
 
 ### Stats
 
