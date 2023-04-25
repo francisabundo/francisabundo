@@ -1,4 +1,6 @@
-### Hi there 👋
+### Benjikoy
+
+**'Coding as a hobby'**
 
 <!--
 **Benjikoy/Benjikoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
