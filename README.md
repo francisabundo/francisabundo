@@ -1,9 +1,16 @@
 ### Benjikoy
 
+<br/>
 
 🔭 I’m an indie full-stack developer building my version of the digital world one step at a time.
 <br/>
+
 🌱 Coding as a hobby.
+<br/>
+<hr/>
+
+### Languages and Tools
+
 
 <!--
 **Benjikoy/Benjikoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
