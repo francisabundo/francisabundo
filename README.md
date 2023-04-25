@@ -3,7 +3,6 @@
 <br/>
 
 🔭 I’m an indie full-stack developer building my version of the digital world one step at a time.
-<br/>
 
 🌱 Coding as a hobby.
 <br/>
