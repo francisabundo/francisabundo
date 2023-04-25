@@ -1,4 +1,6 @@
-### Benjikoy
+# Benjikoy
+
+**`Full-stack Developer`**
 
 <br/>
 
@@ -7,7 +9,8 @@
 🌱 Coding as a hobby.
 <br/>
 
-#
+
+<hr>
 
 
 ### Languages and Tools
