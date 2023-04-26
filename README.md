@@ -6,8 +6,6 @@
 
 🔭 I’m an indie Web Developer building my version of the digital world one step at a time.
 <br/>
-🌱 Coding as a hobby.
-<br/>
 
 
 <hr>
