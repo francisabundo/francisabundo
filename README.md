@@ -30,4 +30,4 @@
 
 ### Stats
 
-![Benjikoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjikoy&show_icons=true&theme=gruvbox)
+![Francis Abundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisabundo&show_icons=true&theme=gruvbox)
