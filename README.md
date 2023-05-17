@@ -1,10 +1,10 @@
 ### Francis Abundo
 
-**`Web Developer`**
+**`Full Stack Web Developer`**
 
 <br/>
 
-🔭 I’m an indie Web Developer building my version of the digital world one step at a time.
+🔭 I’m an indie Full Stack Web Developer building my version of the digital world one step at a time.
 <br/>
 
 
