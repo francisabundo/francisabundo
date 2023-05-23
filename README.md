@@ -28,6 +28,4 @@
 <br/><br/>
 
 
-### Stats
 
-![Francis Abundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisabundo&show_icons=true&theme=gruvbox)
