@@ -21,7 +21,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px" src="https://cdn.jsdelvr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="gitlab" width="30px" style="padding-right:10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelvr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="nodejs" width="30px" style="padding-right:10px" src="https://cdn.jsdelvr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="nodejs" width="30px" style="padding-right:10px, padding-bottom:10px" src="https://cdn.jsdelvr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 
 
