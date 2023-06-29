@@ -24,8 +24,7 @@
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="vscode" width="30px" style="padding-right:10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
-
-
+<img align="left" alt="express" width="30px" style="padding-right:10px" src="https://cdn.jsdelvr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 
 <br/><br/>
